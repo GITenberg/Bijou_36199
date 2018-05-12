@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38133
     wikipedia: http://en.wikipedia.org/wiki/Sibylle_Gabrielle_Marie_Antoinette_Riqueti_de_Mirabeau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36199#Bijou
 gutenberg_issued: '2011-05-23'
 gutenberg_type: Text
 identifiers:
